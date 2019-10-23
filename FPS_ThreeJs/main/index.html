@@ -1,0 +1,170 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300" type="text/css" />
+		<title>FPS Gaming</title>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+		<link rel="stylesheet" href="/assets/css/style.css" />
+	</head>
+	<body>
+
+		<section class="game">
+			<h1 class="title" id="title">FPS GAMING</h1>
+			<section class="screen screen-intro active-screen" id="main">
+				<div class="button button-play">Play</div>
+				<div class="button button-command">How to play</div>
+				<!--	<button class="button button-sound">Sound</button>
+                    <button class="button button-settings">Settings</button>
+                    <button class="button button-credits">Credits</button> -->
+			</section>
+
+			<section class="" id="command">
+				<!--<h1>How to play</h1> -->
+				<div class="button button-game-menu">
+					Back to menu
+				</div>
+				<div id="block-menu">
+					<div class="keyboard">
+						<i><img src="assets/img/key-z-of-a-keyboard.png" alt="keyboard_z"></i>
+						<p> Move Up</p>
+					</div>
+					<div class="keyboard">
+						<i><img src="assets/img/keyboard-key-s.png" alt="keyboard_s"></i>
+						<p> Move Down</p>
+					</div>
+					<div class="keyboard">
+						<i><img src="assets/img/letter-q-key-on-keyboard.png" alt="keyboard_q"></i>
+						<p> Move Left</p>
+					</div>
+					<div class="keyboard">
+						<i><img src="assets/img/key-d-of-a-keyboard.png" alt="keyboard_d"></i>
+						<p> Move Right</p>
+					</div>
+					<div class="keyboard">
+						<i><img src="assets/img/native-button.png" alt="keyboard_space"></i>
+						<p> Jump</p>
+					</div>
+				</div>
+
+			</section>
+
+			<section class="screen screen-sound">
+				Leaderboard
+			</section>
+
+			<section class="screen screen-settings">
+				Stats
+			</section>
+
+			<section class="screen screen-credits">
+				Credits
+			</section>
+
+		</section>
+
+		<div id="blocker">
+
+			<div id="instructions">
+
+
+			</div>
+		
+		</div>
+		
+
+				
+		<div id="selector-container">
+
+			<div id="counter-container">
+				<span id="counter"></span>
+			</div>
+		
+		</div>
+
+		<div id="menu-container">
+			<h1 class="title" id="title">FPS GAMING</h1>
+			<section class="screen screen-intro active-screen" id="main">
+				<div class="button button-play">Play</div>
+				<div class="button button-command">How to play</div>
+				<!--	<button class="button button-sound">Sound</button>
+                    <button class="button button-settings">Settings</button>
+                    <button class="button button-credits">Credits</button> -->
+			</section>
+		</div>
+		<div class="game-board" id="game-board">
+			<div class="life" id="life">
+				<img id="like" src="assets/img/like.png" alt="life">
+			</div>
+			<div class="grenade">
+				<img  id="grenade" src="assets/img/grenade.png" alt="grenade">
+			</div>
+			<div class="bullet">
+				<img  id="bullet" src="assets/img/bullet.png" alt="grenade">
+				<p id="pbullet"></p>
+			</div>
+		</div>
+
+		<div class="text-content" id="text-content">
+			<div class="content">
+				<h3>
+					Brandon
+				</h3>
+				<p id="text">
+					Bonjour humain,
+					Pour pouvoir vous sortir de ce merdier,
+					Il vous faudra tuer 10 robots fou afin de débloquer l'accès à l'avion.
+					Bonne chance !
+				</p>
+			</div>
+		</div>
+
+		<div class="robot-killed">
+			<h3>Robot tué</h3>
+			<p id="compteur"></p>
+		</div>
+
+		<div class="success">
+			<p id="success">
+				Bravo vous avez réussit à exterminer les robots fou,
+				dirigez-vous maintenant en direction de l'avion afin de vous
+				enfuir.
+			</p>
+		</div>
+
+		<div class="end">
+			<p id="end">
+				The End
+			</p>
+		</div>
+
+		<div class="game-over">
+			<p id="game-over">
+				Game Over
+			</p>
+		</div>
+
+		<div class="reload">
+			<img src="assets/img/reload.png">
+		</div>
+
+
+
+		<script src="/assets/three.js"></script>
+		<script src="/assets/LoaderSupport.js"></script>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+		<script src="/assets/PointerLockControls.js"></script>
+		<script src="/assets/OBJLoader.js"></script>
+		<script src="/assets/MTLLoader.js"></script>
+		<script src="/assets/STLLoader.js"></script>
+		<script src="/assets/GLTFLoader.js"></script>
+		<script src="/assets/clone-gtlf.js"></script>
+		<script src="/assets/initMenu.js"></script>
+		<script src="/assets/map.js"></script>
+		<script src="/assets/setGunChoice.js"></script>
+		<script src="/assets/weaponSetting.js"></script>
+		<script src="/assets/niveau.js"></script>
+		<script src="/assets/getIntersection.js"></script>
+		<script src="/assets/scripts.js"></script>
+	</body>
+</html>

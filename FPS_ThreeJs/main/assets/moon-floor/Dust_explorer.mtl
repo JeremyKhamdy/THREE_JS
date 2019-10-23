@@ -1,0 +1,217 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl GLAST-black-fl
+Kd 0.15878 0.15057 0.16294
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl GLAST-bronze-sm
+Kd 0.692302 0.609461 0.384024
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+bump christek-silo/Images/Textures/bumptestexcerpt.tga
+map_bump christek-silo/Images/Textures/bumptestexcerpt.tga
+
+newmtl GLAST-DkGrey-fl
+Kd 0.271489 0.271489 0.271489
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+bump christek-silo/Images/Textures/glassmap1.tga
+map_bump christek-silo/Images/Textures/glassmap1.tga
+
+newmtl GLAST-DkGrey-sm
+Kd 0.330312 0.330312 0.330312
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl GLAST-gold-sm
+Kd 0.785417 0.549186 0.157454
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+bump christek-silo/Images/Textures/bumptestexcerpt3-new.jpg
+map_bump christek-silo/Images/Textures/bumptestexcerpt3-new.jpg
+
+newmtl GLAST-silver-fl
+Kd 0.814481 0.814481 0.814481
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+bump christek-silo/Images/Textures/bumptestexcerpt.tga
+map_bump christek-silo/Images/Textures/bumptestexcerpt.tga
+
+newmtl GLAST-silver-sm
+Kd 0.814481 0.814481 0.814481
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+bump christek-silo/Images/Textures/bumptestexcerpt.tga
+map_bump christek-silo/Images/Textures/bumptestexcerpt.tga
+
+newmtl GLAST-silverfoil-sm
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+bump christek-silo/Images/Textures/bumptestexcerpt.tga
+map_bump christek-silo/Images/Textures/bumptestexcerpt.tga
+
+newmtl GPMcore-SolarFaces1
+Kd 0.4774 0.535198 0.787412
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 106.09
+illum 2
+bump christek-silo/Images/Textures/glassmap1.tga
+map_bump christek-silo/Images/Textures/glassmap1.tga
+
+newmtl GPMcore-SolarFaces2
+Kd 0.463195 0.486239 0.795529
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 144
+illum 2
+bump christek-silo/Images/Textures/glassmap1.tga
+map_bump christek-silo/Images/Textures/glassmap1.tga
+
+newmtl GPMcore-SolarFaces3
+Kd 0.377222 0.437888 0.715391
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 100
+illum 2
+bump christek-silo/Images/Textures/glassmap1.tga
+map_bump christek-silo/Images/Textures/glassmap1.tga
+
+newmtl GPMcore-SolarFaces4
+Kd 0.45397 0.546421 0.748771
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 94.09
+illum 2
+bump $texture.png
+map_bump $texture.png
+
+newmtl GPMcore-SolarFaces5
+Kd 0.472582 0.496262 0.775235
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 96.04
+illum 2
+bump christek-silo/Images/Textures/glassmap1.tga
+map_bump christek-silo/Images/Textures/glassmap1.tga
+
+newmtl GPMcore-SolarFaces6
+Kd 0.510443 0.572252 0.841928
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 98.01
+illum 2
+bump christek-silo/Images/Textures/glassmap1.tga
+map_bump christek-silo/Images/Textures/glassmap1.tga
+
+newmtl GPMcore-SolarFaces7
+Kd 0.395872 0.443791 0.652941
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 124.323
+illum 2
+bump christek-silo/Images/Textures/glassmap1.tga
+map_bump christek-silo/Images/Textures/glassmap1.tga
+
+newmtl GPMcore-SolarFaces8
+Kd 0.419189 0.469944 0.6914
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 112.36
+illum 2
+bump christek-silo/Images/Textures/glassmap1.tga
+map_bump christek-silo/Images/Textures/glassmap1.tga
+
+newmtl LaserCom-Bronze-sm
+Kd 0.665156 0.583032 0.403281
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+bump christek-silo/Images/Textures/bumptestexcerpt.tga
+map_bump christek-silo/Images/Textures/bumptestexcerpt.tga
+
+newmtl LCRD-lens
+Kd 0.187423 0.206115 0.318439
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 14.8225
+illum 2
+
+newmtl LCRD-lens2
+Kd 0.164765 0.183978 0.309327
+Ks 1 1 1
+Ke 0 0 0
+d 0.23
+Ns 36
+illum 2
+
+newmtl RBSP-Black-foil-sm
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 11.2225
+illum 2
+bump christek-silo/Images/Textures/Kapton-tex1.jpg
+map_bump christek-silo/Images/Textures/Kapton-tex1.jpg
+
+newmtl RBSP-Black-NOfoil-sm
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl SolarB-SolarPanelBack
+Kd 0.15938 0.177584 0.411765
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl Stereo-Detail2-dkgrey
+Kd 0.334844 0.333379 0.329
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+

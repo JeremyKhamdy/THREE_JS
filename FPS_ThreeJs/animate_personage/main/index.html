@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>three.js webgl - animation - skinning</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<style>
+			body {
+				color: #fff;
+				font-family:Monospace;
+				font-size:13px;
+				text-align:center;
+				background-color: #fff;
+				margin: 0px;
+				overflow: hidden;
+			}
+			#info {
+				position: absolute;
+				top: 0px; width: 100%;
+				padding: 5px;
+			}
+			a {
+				color: #ff0000;
+			}
+			.ac {  /* prevent dat-gui from being selected */
+				-webkit-user-select: none;
+				-moz-user-select: none;
+				-ms-user-select: none;
+				user-select: none;
+			}
+			.no-pointer-events {
+				pointer-events: none;
+			}
+			.control-disabled {
+				color: #888;
+				text-decoration: line-through;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="container"></div>
+
+		<script src="/assets/libs/three.js"></script>    
+
+		<!-- Optional -->
+
+			<script src="/assets/libs/stats.min.js"></script> 
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.5/dat.gui.js"></script>
+
+		<!-- end optional -->
+				
+		<script src="/assets/GLTFLoader.js"></script>
+        <script src="/assets/script.js"></script>
+        
+	</body>
+</html>
